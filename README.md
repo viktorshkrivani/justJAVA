@@ -32,11 +32,11 @@ This repository contains a series of labs that gradually build Java programming 
 - **[Project 0 🪚 — Deck Builder Cost Estimator](./Project0/)**  
   A console program that calculates the number of boards, material costs, labor costs, and discounts for building a deck. It outputs the total estimated project cost.  
 
-- **[Project 1 🎮 — Text Adventure Game](./Project1/)**  
+- **[Project 1 🎮 — Text Adventure Game](./project1/)**  
   A text-based adventure game where the player can move in directions, attack, sleep to heal wounds, and eventually escape using a secret word. Tracks turns and enforces wounded states.  
 
 - **[Project 2 🚗⚡ — Electric Vehicle Simulator](./Project2/)**  
   A simulation of an electric vehicle that allows the user to check battery status, drive based on distance and efficiency, and charge the battery without overcharging. Includes unit tests for core methods.  
 
-- **[Project 3 🛒 — Shop Management & Kiosk System](./Project3/)**  
+- **[Project 3 🛒 — Shop Management & Kiosk System](./Project3%20File%20IO/)**  
   A shop system with two modes: Manage Shop (add, update, delete items stored in `.txt` files) and Kiosk Mode (customers purchase items, stock updates automatically, and a receipt is generated).  
