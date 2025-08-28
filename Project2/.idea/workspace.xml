@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b12a5faa-e8a2-47ae-a70a-5263f286210a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LAB 7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/LAB 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB 7/src/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/LAB1A.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB1A/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElectricVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElectricVehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/examplee Array Project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examplee Array Project1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/project 1 runn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project 1 runn/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MzP55HPefF54BMcfTY2q5nhvnZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElectricVehicleTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectricVehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElectricVehicleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectricVehicleTest.testCharge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElectricVehicleTest" />
+      <option name="METHOD_NAME" value="testCharge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectricVehicleTest.testDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElectricVehicleTest" />
+      <option name="METHOD_NAME" value="testDrive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElectricVehicleTest" />
+        <item itemvalue="JUnit.ElectricVehicleTest.testCharge" />
+        <item itemvalue="JUnit.ElectricVehicleTest.testDrive" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12a5faa-e8a2-47ae-a70a-5263f286210a" name="Changes" comment="" />
+      <created>1678767253004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678767253004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
