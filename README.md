@@ -6,7 +6,7 @@ They cover fundamental Java programming concepts, including variables, control s
 
 ## 📑 Table of Contents  
 
-### 🔹 Labs  
+### Labs  
 - **[Lab 1](./LAB1/)** — Introduction to Java, basic syntax, input/output  
 - **[Lab 2](./LAB2/)** — Variables, expressions, and operators  
 - **[Lab 3](./Lab3/)** — Control structures (if/else, loops)  
@@ -15,7 +15,7 @@ They cover fundamental Java programming concepts, including variables, control s
 - **[Lab 7](./LAB7/)** — Classes and objects basics  
 - **[Lab 8 File I/O](./LAB8%20File%20IO/)** — Reading and writing files in Java  
 
-### 🔹 Projects  
+### Projects  
 - **[Project 0](./Project0/)** — Getting started project (Java basics practice)  
 - **[Project 1](./project1/)** — Introductory Java project (loops and conditionals)  
 - **[Project 2](./Project2/)** — Intermediate Java project (arrays and methods)  
