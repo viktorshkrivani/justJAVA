@@ -1,6 +1,6 @@
 # Introduction to Java — Labs & Projects  
 
-This repository contains a series of labs that gradually build Java programming skills — starting from the very basics of syntax and input, progressing into control flow, arrays, objects, and file I/O. 
+This repository contains a series of labs that gradually build Java programming skills  starting from the very basics of syntax and input, progressing into control flow, arrays, objects, and file I/O. 
 
 
 ## 📑 Table of Contents  
